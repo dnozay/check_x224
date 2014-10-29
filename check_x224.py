@@ -1,5 +1,5 @@
-# coding=utf-8
-#!/usr/bin/env python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # This Nagios plugin may be used to check the health of an RDP server, such
 # as a Windows host offering remote desktop. Typically, a "strange" RDP
